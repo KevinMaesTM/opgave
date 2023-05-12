@@ -1,0 +1,27 @@
+﻿@model OplossingCookiesStorageSessions.ViewModels.SessionViewModel;
+
+<h1>Session Example</h1>
+
+
+@if (string.IsNullOrEmpty(Model.SessionData))
+{
+    <p>No session data found.</p>
+}
+else
+{
+    <p>Session data: @Model.SessionData</p>
+}
+
+<div>
+
+    @using (Html.BeginForm("CreateSession", "Session", FormMethod.Post))
+    {
+        <div class="form-group">
+            @Html.LabelFor(m => m.SessionData)
+            @Html.TextBoxFor(m => m.SessionData, new { @class = "form-control" })
+        </div>
+
+        <button type="submit" class="btn btn-dark">Create Session</button>
+        @Html.ActionLink("Delete Session", "DeleteSession", "Session", null, new { @class = "btn btn-dark" })
+    }
+</div>

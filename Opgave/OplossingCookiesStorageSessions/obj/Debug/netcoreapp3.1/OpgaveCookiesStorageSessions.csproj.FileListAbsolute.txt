@@ -1,0 +1,88 @@
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.exe
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.deps.json
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.runtimeconfig.json
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.runtimeconfig.dev.json
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.dll
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.pdb
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.Views.dll
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.Views.pdb
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.csproj.AssemblyReference.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.AssemblyInfoInputs.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.AssemblyInfo.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.csproj.CoreCompileInputs.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorAssemblyInfo.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorAssemblyInfo.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\OpgaveCookiesStorageSessions.StaticWebAssets.Manifest.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\OpgaveCookiesStorageSessions.StaticWebAssets.Pack.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.OpgaveCookiesStorageSessions.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.OpgaveCookiesStorageSessions.props
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.OpgaveCookiesStorageSessions.props
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.OpgaveCookiesStorageSessions.props
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.TagHelpers.input.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.TagHelpers.output.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorCoreGenerate.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Cookie\Index.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\LocalStorage\Index.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Session\Index.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorTargetAssemblyInfo.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorTargetAssemblyInfo.cs
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.Views.pdb
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.dll
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.pdb
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.genruntimeconfig.cache
+C:\Users\Jeroen\OneDrive\Documenten\Visual Studio 2019\School\Jaar2-Semester2\WebbApplicaties\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.csproj.CopyComplete
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.exe
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.deps.json
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.runtimeconfig.json
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.dll
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.pdb
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.Views.dll
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\bin\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.Views.pdb
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorAssemblyInfo.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorAssemblyInfo.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\OpgaveCookiesStorageSessions.StaticWebAssets.Manifest.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\OpgaveCookiesStorageSessions.StaticWebAssets.Pack.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.OpgaveCookiesStorageSessions.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.OpgaveCookiesStorageSessions.props
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.OpgaveCookiesStorageSessions.props
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.OpgaveCookiesStorageSessions.props
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.TagHelpers.input.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.TagHelpers.output.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorCoreGenerate.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Cookie\Index.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\LocalStorage\Index.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Session\Index.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorTargetAssemblyInfo.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.RazorTargetAssemblyInfo.cs
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.Views.pdb
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.dll
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.pdb
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\GroepGeel2_GTIGPRA2.1_Onderdeel1\Opgave\OplossingCookiesStorageSessions\obj\Debug\netcoreapp3.1\OpgaveCookiesStorageSessions.csproj.CopyComplete

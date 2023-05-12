@@ -1,0 +1,30 @@
+﻿@model OplossingCookiesStorageSessions.ViewModels.CookieViewModel;
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>Cookie</h1>
+
+<h2>Resultaat cookie</h2>
+<!--Toont gegevens van cookie zodra deze aangemaakt is-->
+@if (Model != null && !string.IsNullOrEmpty(Model.Username))
+{
+    <p>Username van de cookie: @Model.Username</p>
+}
+
+<h2>Cookie aanmaken</h2>
+<form method="post">
+    <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" class="form-control" id="username" name="username" required>
+    </div>
+    <button type="submit" class="btn btn-dark">Creer cookie</button>
+</form>
+<br />
+
+<h2>Cookie verwijderen</h2>
+<!--Verwijdert cookie-->
+<form method="post">
+    <button type="submit" class="btn btn-dark">Delete Cookie</button>
+</form>
+
+
